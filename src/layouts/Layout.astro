@@ -105,6 +105,19 @@ const socialImageURL = new URL(
       )
     }
 
+    <!-- Google tag (gtag.js) 谷歌统计 -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-4DTLXK3H0C"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+
+      gtag("config", "G-4DTLXK3H0C");
+    </script>
+
     <ViewTransitions />
 
     <script is:inline src="/toggle-theme.js"></script>
