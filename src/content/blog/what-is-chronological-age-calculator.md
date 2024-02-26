@@ -19,7 +19,7 @@ tags:
 description: Explore Chronological Age Calculator Accurately assess age for medical, insurance, and HR insights
 ---
 
-![Crew AI](@assets/images/article-image-1.jpg)
+![chronological age calculator](@assets/images/article-image1-1.jpg)
 
 ## Understanding Chronological Age Calculator: An Introduction
 
@@ -37,6 +37,6 @@ Using a Chronological Age Calculator is straightforward. Users simply input the 
 
 Chronological Age Calculators are widely used and highly significant. They help doctors assess patients' physiological status and devise personalized treatment plans. In health management, they assist individuals in understanding their health risks and taking appropriate preventive measures. In the insurance industry, they aid in determining individuals' insurance premiums. In human resources management, they help businesses better understand employees' development needs and potential.
 
-![Crew AI](@assets/images/article-image1-2.jpg)
+![chronological age calculator](@assets/images/article-image1-2.jpg)
 
 the Chronological Age Calculator is a highly practical tool that helps people better understand an individual's age, thereby facilitating the assessment of their physiological status, health risks, and development needs. With technology continually advancing, we believe that Chronological Age Calculators will play an increasingly important role in various fields.
